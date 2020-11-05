@@ -1,0 +1,9 @@
+C:\Users\Techall\OneDrive\Documentos\Visual Studio 2013\Projects\SistemaLanHouse\SistemaLanHouse\bin\Release\SistemaLanHouse.exe.config
+C:\Users\Techall\OneDrive\Documentos\Visual Studio 2013\Projects\SistemaLanHouse\SistemaLanHouse\bin\Release\SistemaLanHouse.exe
+C:\Users\Techall\OneDrive\Documentos\Visual Studio 2013\Projects\SistemaLanHouse\SistemaLanHouse\bin\Release\SistemaLanHouse.pdb
+C:\Users\Techall\OneDrive\Documentos\Visual Studio 2013\Projects\SistemaLanHouse\SistemaLanHouse\obj\Release\SistemaLanHouse-Admin.csprojResolveAssemblyReference.cache
+C:\Users\Techall\OneDrive\Documentos\Visual Studio 2013\Projects\SistemaLanHouse\SistemaLanHouse\obj\Release\SistemaLanHouse.sistemaForm.resources
+C:\Users\Techall\OneDrive\Documentos\Visual Studio 2013\Projects\SistemaLanHouse\SistemaLanHouse\obj\Release\SistemaLanHouse.Properties.Resources.resources
+C:\Users\Techall\OneDrive\Documentos\Visual Studio 2013\Projects\SistemaLanHouse\SistemaLanHouse\obj\Release\SistemaLanHouse-Admin.csproj.GenerateResource.Cache
+C:\Users\Techall\OneDrive\Documentos\Visual Studio 2013\Projects\SistemaLanHouse\SistemaLanHouse\obj\Release\SistemaLanHouse.exe
+C:\Users\Techall\OneDrive\Documentos\Visual Studio 2013\Projects\SistemaLanHouse\SistemaLanHouse\obj\Release\SistemaLanHouse.pdb
